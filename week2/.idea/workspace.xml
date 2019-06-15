@@ -28,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -36,11 +39,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="187" />
-    <option name="y" value="11" />
+    <option name="x" value="186" />
+    <option name="y" value="10" />
     <option name="width" value="1540" />
-    <option name="height" value="1104" />
+    <option name="height" value="1105" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -61,7 +65,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../use databases with python/week2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,8 +121,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="150" y="9" width="1232" height="883" extended-state="0" />
-    <editor active="true" />
+    <frame x="149" y="8" width="1232" height="884" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

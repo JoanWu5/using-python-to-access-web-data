@@ -1,0 +1,10 @@
+print(ord('+'))
+print(ord('!'))
+print(ord('*'))
+print(ord('^'))
+print(ord('/'))
+
+print(chr(108))
+print(chr(105))
+print(chr(110))
+print(chr(101))
